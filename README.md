@@ -12,14 +12,14 @@ Got experience using a new software called Postman, it is an application used fo
 
 ### Single Student 
 
-![im](images/singlestudent.png)
+![im](images/SingleStudent.png)
 
 ### Customized Student
 
-![im](images/studentpost.png)
+![im](images/StudentPost.png)
 
 ### Unmatched
 
-![im](images/unmatched.png)
+![im](images/Unmatched.png)
 
 
