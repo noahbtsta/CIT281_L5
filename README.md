@@ -10,11 +10,16 @@ Got experience using a new software called Postman, it is an application used fo
 
 ![im](images/studentarray.png)
 
-### All Student
-
-![im](images/allstudent.png)
-
 ### Single Student 
 
 ![im](images/singlestudent.png)
+
+### Customized Student
+
+![im](images/studentpost.png)
+
+### Unmatched
+
+![im](images/unmatched.png)
+
 
